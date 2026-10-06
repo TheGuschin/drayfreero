@@ -8,7 +8,7 @@ const audiowide = Audiowide({
 })
 
 export const metadata: Metadata = {
-  title: 'DRAY FREERO',
+  title: 'Dray Freero | Wave Artist',
 }
 
 export default function RootLayout({
