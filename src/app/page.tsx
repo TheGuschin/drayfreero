@@ -7,7 +7,7 @@ export default function Page() {
     <>
       <div className={`fixed -z-10 bg-[url(/background.png)] w-screen h-screen bg-fixed bg-center`} />
       <div className="flex flex-col gap-3 h-screen justify-center items-center">
-        <h1 className="text-3xl md:text-6xl font-semibold typing">DRAY FREERO</h1>
+        <h1 className="text-3xl md:text-6xl font-semibold typing">Dray Freero</h1>
         <span className="text-2xl md:text-3xl font-sans">networks/@drayfreero</span>
         <div className="flex gap-6">
           <a href="https://vk.com/drayfreero" target="_blank">
